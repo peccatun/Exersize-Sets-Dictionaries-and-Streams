@@ -1,0 +1,12 @@
+D:\C#Advanced\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\files\input.txt
+D:\C#Advanced\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.deps.json
+D:\C#Advanced\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.runtimeconfig.json
+D:\C#Advanced\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.runtimeconfig.dev.json
+D:\C#Advanced\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.dll
+D:\C#Advanced\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.pdb
+D:\C#Advanced\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.csprojAssemblyReference.cache
+D:\C#Advanced\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.csproj.CoreCompileInputs.cache
+D:\C#Advanced\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.AssemblyInfoInputs.cache
+D:\C#Advanced\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.AssemblyInfo.cs
+D:\C#Advanced\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.dll
+D:\C#Advanced\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.pdb

@@ -1,0 +1,12 @@
+D:\C#Advanced\OddFile\OddFile\bin\Debug\netcoreapp2.2\files\input.txt
+D:\C#Advanced\OddFile\OddFile\bin\Debug\netcoreapp2.2\OddFile.deps.json
+D:\C#Advanced\OddFile\OddFile\bin\Debug\netcoreapp2.2\OddFile.runtimeconfig.json
+D:\C#Advanced\OddFile\OddFile\bin\Debug\netcoreapp2.2\OddFile.runtimeconfig.dev.json
+D:\C#Advanced\OddFile\OddFile\bin\Debug\netcoreapp2.2\OddFile.dll
+D:\C#Advanced\OddFile\OddFile\bin\Debug\netcoreapp2.2\OddFile.pdb
+D:\C#Advanced\OddFile\OddFile\obj\Debug\netcoreapp2.2\OddFile.csprojAssemblyReference.cache
+D:\C#Advanced\OddFile\OddFile\obj\Debug\netcoreapp2.2\OddFile.csproj.CoreCompileInputs.cache
+D:\C#Advanced\OddFile\OddFile\obj\Debug\netcoreapp2.2\OddFile.AssemblyInfoInputs.cache
+D:\C#Advanced\OddFile\OddFile\obj\Debug\netcoreapp2.2\OddFile.AssemblyInfo.cs
+D:\C#Advanced\OddFile\OddFile\obj\Debug\netcoreapp2.2\OddFile.dll
+D:\C#Advanced\OddFile\OddFile\obj\Debug\netcoreapp2.2\OddFile.pdb

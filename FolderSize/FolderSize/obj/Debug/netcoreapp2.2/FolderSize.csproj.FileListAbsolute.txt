@@ -1,0 +1,15 @@
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\FolderSize.deps.json
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\FolderSize.runtimeconfig.json
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\FolderSize.runtimeconfig.dev.json
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\FolderSize.dll
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\FolderSize.pdb
+D:\C#Advanced\FolderSize\FolderSize\obj\Debug\netcoreapp2.2\FolderSize.csprojAssemblyReference.cache
+D:\C#Advanced\FolderSize\FolderSize\obj\Debug\netcoreapp2.2\FolderSize.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FolderSize\FolderSize\obj\Debug\netcoreapp2.2\FolderSize.AssemblyInfoInputs.cache
+D:\C#Advanced\FolderSize\FolderSize\obj\Debug\netcoreapp2.2\FolderSize.AssemblyInfo.cs
+D:\C#Advanced\FolderSize\FolderSize\obj\Debug\netcoreapp2.2\FolderSize.dll
+D:\C#Advanced\FolderSize\FolderSize\obj\Debug\netcoreapp2.2\FolderSize.pdb
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\Resources\06. Folder Size\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\Resources\06. Folder Size\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\Resources\06. Folder Size\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+D:\C#Advanced\FolderSize\FolderSize\bin\Debug\netcoreapp2.2\Resources\06. Folder Size\TestFolder\2. Simple-Calculations-Exercises.docx

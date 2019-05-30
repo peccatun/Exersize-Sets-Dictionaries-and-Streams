@@ -1,0 +1,12 @@
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\bin\Debug\netcoreapp2.2\copyMe.png
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\bin\Debug\netcoreapp2.2\ZipAndExtract.deps.json
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\bin\Debug\netcoreapp2.2\ZipAndExtract.runtimeconfig.json
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\bin\Debug\netcoreapp2.2\ZipAndExtract.runtimeconfig.dev.json
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\bin\Debug\netcoreapp2.2\ZipAndExtract.dll
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\bin\Debug\netcoreapp2.2\ZipAndExtract.pdb
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\obj\Debug\netcoreapp2.2\ZipAndExtract.csprojAssemblyReference.cache
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\obj\Debug\netcoreapp2.2\ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\obj\Debug\netcoreapp2.2\ZipAndExtract.AssemblyInfoInputs.cache
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\obj\Debug\netcoreapp2.2\ZipAndExtract.AssemblyInfo.cs
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\obj\Debug\netcoreapp2.2\ZipAndExtract.dll
+D:\C#Advanced\ZipAndExtract\ZipAndExtract\obj\Debug\netcoreapp2.2\ZipAndExtract.pdb

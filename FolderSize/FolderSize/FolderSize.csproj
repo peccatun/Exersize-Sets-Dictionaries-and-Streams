@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Resources\06. Folder Size\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\06. Folder Size\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\06. Folder Size\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\06. Folder Size\TestFolder\2. Simple-Calculations-Exercises.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

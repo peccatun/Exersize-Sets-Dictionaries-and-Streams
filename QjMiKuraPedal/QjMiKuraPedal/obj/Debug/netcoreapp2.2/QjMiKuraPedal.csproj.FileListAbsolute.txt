@@ -1,0 +1,13 @@
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\files\input1.txt
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\files\input2.txt
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\QjMiKuraPedal.deps.json
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\QjMiKuraPedal.runtimeconfig.json
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\QjMiKuraPedal.runtimeconfig.dev.json
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\QjMiKuraPedal.dll
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\bin\Debug\netcoreapp2.2\QjMiKuraPedal.pdb
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\obj\Debug\netcoreapp2.2\QjMiKuraPedal.csprojAssemblyReference.cache
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\obj\Debug\netcoreapp2.2\QjMiKuraPedal.csproj.CoreCompileInputs.cache
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\obj\Debug\netcoreapp2.2\QjMiKuraPedal.AssemblyInfoInputs.cache
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\obj\Debug\netcoreapp2.2\QjMiKuraPedal.AssemblyInfo.cs
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\obj\Debug\netcoreapp2.2\QjMiKuraPedal.dll
+D:\C#Advanced\QjMiKuraPedal\QjMiKuraPedal\obj\Debug\netcoreapp2.2\QjMiKuraPedal.pdb

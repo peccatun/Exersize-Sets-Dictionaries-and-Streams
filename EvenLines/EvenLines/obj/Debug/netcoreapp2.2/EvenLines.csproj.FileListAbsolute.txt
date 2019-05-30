@@ -1,0 +1,12 @@
+D:\C#Advanced\EvenLines\EvenLines\bin\Debug\netcoreapp2.2\EvenLines.deps.json
+D:\C#Advanced\EvenLines\EvenLines\bin\Debug\netcoreapp2.2\EvenLines.runtimeconfig.json
+D:\C#Advanced\EvenLines\EvenLines\bin\Debug\netcoreapp2.2\EvenLines.runtimeconfig.dev.json
+D:\C#Advanced\EvenLines\EvenLines\bin\Debug\netcoreapp2.2\EvenLines.dll
+D:\C#Advanced\EvenLines\EvenLines\bin\Debug\netcoreapp2.2\EvenLines.pdb
+D:\C#Advanced\EvenLines\EvenLines\obj\Debug\netcoreapp2.2\EvenLines.csprojAssemblyReference.cache
+D:\C#Advanced\EvenLines\EvenLines\obj\Debug\netcoreapp2.2\EvenLines.csproj.CoreCompileInputs.cache
+D:\C#Advanced\EvenLines\EvenLines\obj\Debug\netcoreapp2.2\EvenLines.AssemblyInfoInputs.cache
+D:\C#Advanced\EvenLines\EvenLines\obj\Debug\netcoreapp2.2\EvenLines.AssemblyInfo.cs
+D:\C#Advanced\EvenLines\EvenLines\obj\Debug\netcoreapp2.2\EvenLines.dll
+D:\C#Advanced\EvenLines\EvenLines\obj\Debug\netcoreapp2.2\EvenLines.pdb
+D:\C#Advanced\EvenLines\EvenLines\bin\Debug\netcoreapp2.2\text.txt

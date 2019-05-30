@@ -1,0 +1,12 @@
+D:\C#Advanced\FirstSolution\MergeFiles\bin\Debug\netcoreapp2.2\files\input2.txt
+D:\C#Advanced\FirstSolution\MergeFiles\bin\Debug\netcoreapp2.2\MergeFiles.deps.json
+D:\C#Advanced\FirstSolution\MergeFiles\bin\Debug\netcoreapp2.2\MergeFiles.runtimeconfig.json
+D:\C#Advanced\FirstSolution\MergeFiles\bin\Debug\netcoreapp2.2\MergeFiles.runtimeconfig.dev.json
+D:\C#Advanced\FirstSolution\MergeFiles\bin\Debug\netcoreapp2.2\MergeFiles.dll
+D:\C#Advanced\FirstSolution\MergeFiles\bin\Debug\netcoreapp2.2\MergeFiles.pdb
+D:\C#Advanced\FirstSolution\MergeFiles\obj\Debug\netcoreapp2.2\MergeFiles.csprojAssemblyReference.cache
+D:\C#Advanced\FirstSolution\MergeFiles\obj\Debug\netcoreapp2.2\MergeFiles.csproj.CoreCompileInputs.cache
+D:\C#Advanced\FirstSolution\MergeFiles\obj\Debug\netcoreapp2.2\MergeFiles.AssemblyInfoInputs.cache
+D:\C#Advanced\FirstSolution\MergeFiles\obj\Debug\netcoreapp2.2\MergeFiles.AssemblyInfo.cs
+D:\C#Advanced\FirstSolution\MergeFiles\obj\Debug\netcoreapp2.2\MergeFiles.dll
+D:\C#Advanced\FirstSolution\MergeFiles\obj\Debug\netcoreapp2.2\MergeFiles.pdb

@@ -1,0 +1,11 @@
+D:\C#Advanced\TheV-Logger\TheV-Logger\bin\Debug\netcoreapp2.2\TheV-Logger.deps.json
+D:\C#Advanced\TheV-Logger\TheV-Logger\bin\Debug\netcoreapp2.2\TheV-Logger.runtimeconfig.json
+D:\C#Advanced\TheV-Logger\TheV-Logger\bin\Debug\netcoreapp2.2\TheV-Logger.runtimeconfig.dev.json
+D:\C#Advanced\TheV-Logger\TheV-Logger\bin\Debug\netcoreapp2.2\TheV-Logger.dll
+D:\C#Advanced\TheV-Logger\TheV-Logger\bin\Debug\netcoreapp2.2\TheV-Logger.pdb
+D:\C#Advanced\TheV-Logger\TheV-Logger\obj\Debug\netcoreapp2.2\TheV-Logger.csprojAssemblyReference.cache
+D:\C#Advanced\TheV-Logger\TheV-Logger\obj\Debug\netcoreapp2.2\TheV-Logger.csproj.CoreCompileInputs.cache
+D:\C#Advanced\TheV-Logger\TheV-Logger\obj\Debug\netcoreapp2.2\TheV-Logger.AssemblyInfoInputs.cache
+D:\C#Advanced\TheV-Logger\TheV-Logger\obj\Debug\netcoreapp2.2\TheV-Logger.AssemblyInfo.cs
+D:\C#Advanced\TheV-Logger\TheV-Logger\obj\Debug\netcoreapp2.2\TheV-Logger.dll
+D:\C#Advanced\TheV-Logger\TheV-Logger\obj\Debug\netcoreapp2.2\TheV-Logger.pdb

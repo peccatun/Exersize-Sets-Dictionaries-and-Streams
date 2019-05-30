@@ -1,0 +1,13 @@
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\text.txt
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\words.txt
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\WordCountPartOne.deps.json
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\WordCountPartOne.runtimeconfig.json
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\WordCountPartOne.runtimeconfig.dev.json
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\WordCountPartOne.dll
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\bin\Debug\netcoreapp2.2\WordCountPartOne.pdb
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\obj\Debug\netcoreapp2.2\WordCountPartOne.csprojAssemblyReference.cache
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\obj\Debug\netcoreapp2.2\WordCountPartOne.csproj.CoreCompileInputs.cache
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\obj\Debug\netcoreapp2.2\WordCountPartOne.AssemblyInfoInputs.cache
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\obj\Debug\netcoreapp2.2\WordCountPartOne.AssemblyInfo.cs
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\obj\Debug\netcoreapp2.2\WordCountPartOne.dll
+D:\C#Advanced\WordCountPartOne\WordCountPartOne\obj\Debug\netcoreapp2.2\WordCountPartOne.pdb

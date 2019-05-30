@@ -1,0 +1,12 @@
+D:\C#Advanced\Zadacha1\Zadacha1\bin\Debug\netcoreapp2.2\Zadacha1.deps.json
+D:\C#Advanced\Zadacha1\Zadacha1\bin\Debug\netcoreapp2.2\Zadacha1.runtimeconfig.json
+D:\C#Advanced\Zadacha1\Zadacha1\bin\Debug\netcoreapp2.2\Zadacha1.runtimeconfig.dev.json
+D:\C#Advanced\Zadacha1\Zadacha1\bin\Debug\netcoreapp2.2\Zadacha1.dll
+D:\C#Advanced\Zadacha1\Zadacha1\bin\Debug\netcoreapp2.2\Zadacha1.pdb
+D:\C#Advanced\Zadacha1\Zadacha1\obj\Debug\netcoreapp2.2\Zadacha1.csprojAssemblyReference.cache
+D:\C#Advanced\Zadacha1\Zadacha1\obj\Debug\netcoreapp2.2\Zadacha1.csproj.CoreCompileInputs.cache
+D:\C#Advanced\Zadacha1\Zadacha1\obj\Debug\netcoreapp2.2\Zadacha1.AssemblyInfoInputs.cache
+D:\C#Advanced\Zadacha1\Zadacha1\obj\Debug\netcoreapp2.2\Zadacha1.AssemblyInfo.cs
+D:\C#Advanced\Zadacha1\Zadacha1\obj\Debug\netcoreapp2.2\Zadacha1.dll
+D:\C#Advanced\Zadacha1\Zadacha1\obj\Debug\netcoreapp2.2\Zadacha1.pdb
+D:\C#Advanced\Zadacha1\Zadacha1\bin\Debug\netcoreapp2.2\text.txt
